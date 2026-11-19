@@ -4,8 +4,6 @@ An Autonomous AI Agent built using **Python, FastAPI, Google Gemini, Streamlit, 
 
 ---
 
-
-
 ## 🚀 Features
 - 🧠 Autonomous Task Planning
 - ⚙️ AI Task Execution
