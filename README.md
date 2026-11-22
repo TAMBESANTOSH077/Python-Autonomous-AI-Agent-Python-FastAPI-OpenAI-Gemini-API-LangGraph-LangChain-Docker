@@ -14,8 +14,6 @@ An Autonomous AI Agent built using **Python, FastAPI, Google Gemini, Streamlit, 
 - ✅ Request Validation using Pydantic
 
 ---
-
-
 ## 🏗️ Architecture
 
 ```
