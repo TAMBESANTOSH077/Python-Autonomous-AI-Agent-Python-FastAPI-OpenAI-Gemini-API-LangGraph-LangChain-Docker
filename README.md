@@ -78,7 +78,6 @@ python-ai-autonomous-agent/
 - python-docx
 - Pydantic
 - Requests
-
 ---
 
 ## ⚙️ Installation
