@@ -2,8 +2,6 @@
 
 An Autonomous AI Agent built using **Python, FastAPI, Google Gemini, Streamlit, and python-docx** that can understand natural language requests, generate its own execution plan, execute tasks autonomously, perform self-reflection, and generate professional Microsoft Word documents.
 
-
-
 ---
 ## 🚀 Features
 - 🧠 Autonomous Task Planning
